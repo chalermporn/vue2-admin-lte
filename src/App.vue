@@ -36,6 +36,9 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+$ddd : red;
+.ss{
+    background-color: $ddd;
+}
 </style>

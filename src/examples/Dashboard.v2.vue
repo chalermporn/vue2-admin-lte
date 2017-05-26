@@ -95,6 +95,16 @@
           progressDescription="40% Increase in 30 Days"
           :percentage="40"
         ></va-info-box>
+        <va-info-box
+          wrapBgColor="ss"
+          bgIcon="ion ion-ios-pricetag-outline"
+          text="sssss"
+          number="163921"
+          numberType="comma"
+          :isProgress="true"
+          progressDescription="40% Increase in 30 Days"
+          :percentage="40"
+        ></va-info-box>
       </div>
     </row>
   </div>
